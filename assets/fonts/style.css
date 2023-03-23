@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Engineering';
+   font-display: swap;
+   src: url('Engineering/font.ttf');
+}
+@font-face {
+   font-family: 'TWKai';
+   font-display: swap;
+   src: url('TWKai/font.ttf');
+}
