@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jimmy",
-    "currentPage": "page1.html",
+    "currentPage": "inde.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -66,7 +66,7 @@
         "file": "@PROJECT_PATH@/fonts/TWKai/font.ttf"
       }
     ],
-    "uniqCompNum": 59,
+    "uniqCompNum": 65,
     "versionPublish": "5.8.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -287,10 +287,12 @@
         }
       ]
     },
-    "page1.html": {
+    "inde.html": {
       "settings": {
         "title": "Jimmy",
-        "order": "1"
+        "order": "1",
+        "socialSharingUrl": "",
+        "meta_descr": ""
       },
       "components": [
         {
