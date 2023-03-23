@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Engineering';
+   font-display: swap;
+   src: url('Engineering/font.ttf');
+}
+@font-face {
+   font-family: 'DaysOne-Regular';
+   font-display: swap;
+   src: url('DaysOne-Regular/font.ttf');
+}
